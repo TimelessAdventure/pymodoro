@@ -8,7 +8,7 @@ relax*=60
 relaxb=relax
 
 def display(timed):
-    while (timev): 
+    while (timed): 
         mins, secs = divmod(timed, 60) 
         timer = '{:02d}:{:02d}'.format(mins, secs) 
         print(timer, end="\r") 
