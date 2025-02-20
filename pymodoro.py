@@ -7,6 +7,6 @@ for i in range(0, count):
     time.sleep(study*60)
     print("Break time! Yay!")
     print('\a')
-    time.sleep(brek*60)
+    time.sleep(relax*60)
     print("Get back to work")
     print('\a')
