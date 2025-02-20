@@ -15,11 +15,12 @@ git clone https://github.com/TimelessAdventure/pymodoro
 cd pymodoro
 ```
 
-Install dependencies (if any):
+Install dependencies (if any. Usually you would have it):
 
 ```bash
 pip install time
 ```
+
 Run the program:
 
 ```bash
