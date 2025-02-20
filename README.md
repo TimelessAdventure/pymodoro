@@ -12,12 +12,18 @@ Make sure you have Python installed, then clone this repository:
 
 ```bash
 git clone https://github.com/TimelessAdventure/pymodoro
+cd pymodoro
 ```
 
 Install dependencies (if any):
 
 ```bash
 pip install time
+```
+Run the program:
+
+```bash
+python pymodoro.py
 ```
 
 ## License
