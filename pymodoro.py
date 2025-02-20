@@ -2,6 +2,10 @@ import time
 study=int(input("Enter the duration to study (mins): "))
 relax=int(input("Enter the duration of break (mins): "))
 count=int(input("Enter the number of cycles: "))
+study*=60
+studyb=study
+relax*=60
+relaxb=relax
 
 def display(timed):
     while (timev): 
