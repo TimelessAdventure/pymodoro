@@ -1,4 +1,4 @@
-# Pomodoro Timer
+# Pymodoro
 
 A simple Python-based Pomodoro timer to help boost productivity using the Pomodoro Technique.
 
